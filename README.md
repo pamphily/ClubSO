@@ -1,1 +1,2 @@
 # ClubSO
+Software club repository 
